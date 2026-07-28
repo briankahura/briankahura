@@ -1,44 +1,36 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=160&section=header&text=Brian%20Kahura&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=160&section=header&text=Brian%20Kahura&fontSize=40&fontColor=0a192f&fontAlignY=35" width="100%"/>
-  </picture>
+  <img src="https://caplet-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=180&section=header&text=Brian%20Kahura&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn" width="100%"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG"/>
 </div>
 
 <p align="center">
-  <a href="https://radiaxsolutions.com"><img src="https://img.shields.io/badge/Website-radiaxsolutions.com-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:kahurabrian79@gmail.com"><img src="https://img.shields.io/badge/Email-kahurabrian79%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/briankahura"><img src="https://img.shields.io/badge/GitHub-briankahura-181717?style=flat-square&logo=github"/></a>
-</p>
-
-<p align="center">
-  <code>he/him</code> · <code>Nairobi, Kenya</code> · <code>Radiax Solutions</code>
+  <a href="https://radiaxsolutions.com"><img src="https://img.shields.io/badge/radiaxsolutions.com-0EA5E9?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:kahurabrian79@gmail.com"><img src="https://img.shields.io/badge/kahurabrian79%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/briankahura"><img src="https://img.shields.io/badge/briankahura-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3>👨‍💻 About Me</h3>
+<h3>👋 Hey there</h3>
 
-<p>I build full-stack applications and design systems that solve real problems.</p>
+<p>I'm a full-stack developer and UI/UX designer. I build applications, design interfaces, and automate things — from web apps to mobile experiences.</p>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-- 🔭 Currently building — **Billex**
-- 🌱 Learning — **Go**, **system design**, **microservices**
-- 🎨 Crafting UIs with — **Tailwind**, **Framer Motion**, **Flutter**
-- ⚡ I automate everything. Including my coffee ☕
+**Currently**
+- Building full-stack apps with **Laravel, React, Next.js, Node.js**
+- Designing UIs with **Tailwind CSS, Framer Motion, Flutter**
+- Learning **Go**, system design, and microservices
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-**Languages**
+**Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,dart,go,python" /><br/><br/>
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,nodejs,tailwind,docker,postgres,redis,linux,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,dart,go,python,laravel,react,nextjs,flutter,nodejs,tailwind,docker,postgres,redis,git,github,linux" />
 
 </td>
 </tr>
@@ -46,42 +38,24 @@
 
 ---
 
-<h3>📊 GitHub</h3>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&icon_color=0ea5e9&title_color=0ea5e9&count_private=true&include_all_commits=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=transparent&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=transparent&hide_border=true" width="48%"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&icon_color=0EA5E9&title_color=0EA5E9&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankahura&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankahura&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=c9d1d9" width="40%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=briankahura&label=Profile+Views&color=0ea5e9&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/briankahura?label=Followers&style=social"/>
+  <a href="https://github.com/briankahura?tab=followers"><img src="https://img.shields.io/github/followers/briankahura?label=Followers&style=social"/></a>
+  <img src="https://komarev.com/ghpvc/?username=briankahura&color=0EA5E9&style=flat-square"/>
 </p>
-
-<br/>
-
-<details>
-<summary>📈 Contribution Graph (click to expand)</summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-</details>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=80&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=80&section=footer" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=80&section=footer" width="100%"/>
 </div>
