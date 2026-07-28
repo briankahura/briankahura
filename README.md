@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://radiaxisp.com"><img src="https://img.shields.io/badge/🌐_Website-radiaxisp.com-181717?style=for-the-badge"/></a>
-  <a href="mailto:brian@radiaxisp.com"><img src="https://img.shields.io/badge/📧_Email-brian@radiaxisp.com-D14836?style=for-the-badge"/></a>
+  <a href="https://radiaxsolutions.com"><img src="https://img.shields.io/badge/🌐_Website-radiaxsolutions.com-181717?style=for-the-badge"/></a>
+  <a href="mailto:kahurabrian79@gmail.com"><img src="https://img.shields.io/badge/📧_Email-kahurabrian79%40gmail.com-D14836?style=for-the-badge"/></a>
   <a href="https://github.com/briankahura"><img src="https://img.shields.io/badge/🐙_GitHub-briankahura-181717?style=for-the-badge"/></a>
   <br/>
   <img src="https://img.shields.io/badge/🏳️_he/him-000000?style=flat-square"/>
@@ -42,7 +42,7 @@ React       ██████████░
 Next.js     █████████░░
 Flutter     ████████░░░
 Node.js     █████████░░
-Go          ██████░░░░░  ← learning
+Go          ██████░░░░░
 PostgreSQL  █████████░░
 Tailwind    ██████████░
 Docker      ████████░░░
