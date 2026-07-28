@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://caplet-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=180&section=header&text=Brian%20Kahura&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=180&section=header&text=Brian%20Kahura&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn" width="100%"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG"/>
 </div>
