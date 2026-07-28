@@ -1,54 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Brian%20Kahura&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=160&section=header&text=Brian%20Kahura&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=160&section=header&text=Brian%20Kahura&fontSize=40&fontColor=0a192f&fontAlignY=35" width="100%"/>
+  </picture>
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F77500&center=true&vCenter=true&width=500&lines=Full-stack+Developer;UI%2FUX+Designer;Open+Source+Enthusiast;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <a href="https://radiaxsolutions.com"><img src="https://img.shields.io/badge/Website-radiaxsolutions.com-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:kahurabrian79@gmail.com"><img src="https://img.shields.io/badge/Email-kahurabrian79%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/briankahura"><img src="https://img.shields.io/badge/GitHub-briankahura-181717?style=flat-square&logo=github"/></a>
+</p>
 
 <p align="center">
-  <a href="https://radiaxsolutions.com"><img src="https://img.shields.io/badge/🌐_Website-radiaxsolutions.com-181717?style=for-the-badge"/></a>
-  <a href="mailto:kahurabrian79@gmail.com"><img src="https://img.shields.io/badge/📧_Email-kahurabrian79%40gmail.com-D14836?style=for-the-badge"/></a>
-  <a href="https://github.com/briankahura"><img src="https://img.shields.io/badge/🐙_GitHub-briankahura-181717?style=for-the-badge"/></a>
-  <br/>
-  <img src="https://img.shields.io/badge/🏳️_he/him-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/📍_Nairobi,_Kenya-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏢_Radiax_Solutions-000000?style=flat-square"/>
+  <code>he/him</code> · <code>Nairobi, Kenya</code> · <code>Radiax Solutions</code>
 </p>
 
 ---
 
-<table align="center">
+<h3>👨‍💻 About Me</h3>
+
+<p>I build full-stack applications and design systems that solve real problems.</p>
+
+<table>
 <tr>
 <td width="60%" valign="top">
 
-### 🧑‍💻 About Me
-
-I build **full-stack applications** and **design systems** that solve real problems. From ISP billing platforms to network automation tools — I enjoy the full stack.
-
-- 🔭 Currently building **Billex** — ISP management platform
-- 🌱 Deep diving into **Go**, **system design**, **microservices**
-- 🎨 Love crafting **smooth UIs** with **Tailwind**, **Framer Motion**, **Flutter**
-- ⚡ Fun fact: I automate everything. Including my coffee ☕
+- 🔭 Currently building — **Billex**
+- 🌱 Learning — **Go**, **system design**, **microservices**
+- 🎨 Crafting UIs with — **Tailwind**, **Framer Motion**, **Flutter**
+- ⚡ I automate everything. Including my coffee ☕
 
 </td>
 <td width="40%" valign="top">
 
-### 🛠️ Tech Stack
+**Languages**
 
-```
-Laravel     ██████████░
-React       ██████████░
-Next.js     █████████░░
-Flutter     ████████░░░
-Node.js     █████████░░
-Go          ██████░░░░░
-PostgreSQL  █████████░░
-Tailwind    ██████████░
-Docker      ████████░░░
-MikroTik    █████████░░
-FreeRADIUS  ████████░░░
-```
+<img src="https://skillicons.dev/icons?i=ts,js,php,dart,go,python" /><br/><br/>
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,nodejs,tailwind,docker,postgres,redis,linux,git" />
 
 </td>
 </tr>
@@ -56,46 +46,42 @@ FreeRADIUS  ████████░░░
 
 ---
 
-### 💻 What I Work With
+<h3>📊 GitHub</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,nodejs,go,postgres,redis,tailwind,docker,linux,git,github" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&icon_color=0ea5e9&title_color=0ea5e9&count_private=true&include_all_commits=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=transparent&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=transparent&hide_border=true" width="48%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <i>...and MikroTik, FreeRADIUS, OpenVPN, Cloudflare, TR-069</i>
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briankahura&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briankahura&theme=dark&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankahura&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankahura&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9" width="40%"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=briankahura&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/briankahura?label=Followers&style=social"/>
+</p>
 
+<br/>
+
+<details>
+<summary>📈 Contribution Graph (click to expand)</summary>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/briankahura">
-    <img src="https://img.shields.io/github/followers/briankahura?label=Follow&style=social" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=briankahura&label=Profile+Views&color=blue&style=flat" />
-</p>
+</details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=80&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0284c7&height=80&section=footer" width="100%"/>
+  </picture>
 </div>
